@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="hibernate" name="Hibernate">
+      <configuration>
+        <datasource-map />
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="ApplicationContext" removed="false">
+          <file>file://$MODULE_DIR$/src/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-java-config-define-beans/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-bean-scopes/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-ioc/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-bean-life-cycle/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/src/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-setter-injection/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-injecting-literal-values/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-bean-scope/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-java-config/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-explicit-component-names/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-bean-lifecycle-methods/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-qualifiers-part-1/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-injecting-values-from-properties-file/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/out/production/spring-and-hibernate/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-default-component-names/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-qualifiers-part-2/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-dependency-injection/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-field-injection/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/spring-demo-one/starter-files/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-java-config-inject-values-from-properties-file/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-setter-injection/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/01-spring-in-depth/src/main/resources/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-annotation-constructor-injection/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/out/production/spring-and-hibernate/beanLifeCycle-applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/src/beanLifeCycle-applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-bean-life-cycle/beanLifeCycle-applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/out/production/spring-and-hibernate/beanScope-applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-bean-scopes/beanScope-applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/01-spring-core-5/solution-code-spring-bean-life-cycle/beanScope-applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/src/beanScope-applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/99-old-code/1.BasicExample/src/main/resources/BusinessApplicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/99-old-code/2.RealWorldExample/business/impl/src/test/resources/BusinessApplicationContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/99-old-code/7.SpringMvc/in28minutes-core/src/main/resources/META-INF/spring/persistence-context.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/99-old-code/7.SpringMvc/in28minutes-core/src/main/resources/META-INF/spring/service-context.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/solution-code-spring-mvc-CRUD-CRM-refactor-add-get-post-mappings/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/05-spring-aop-5/solution-code-spring-aop-mvc-logging/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/solution-code-spring-mvc-CRUD-CRM-setup-and-test/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/solution-code-spring-mvc-CRUD-CRM-list-customers/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/solution-code-spring-mvc-CRUD-CRM-delete-customer/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/solution-code-spring-mvc-CRUD-CRM-refactor-add-service-layer/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/solution-code-spring-mvc-CRUD-CRM-add-customer/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/web-customer-tracker-starter-files/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/04-spring-mvc-crud-5/solution-code-spring-mvc-CRUD-CRM-update-customer/WebContent/WEB-INF/spring-mvc-crud-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-validation-number-ranges/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-controller-level-mappings/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-form-tags-drop-down-lists/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-validation-required-fields/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-adding-data-to-the-spring-model/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-validation-create-custom-validation-rule/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-config-files/spring-mvc/starter-files/spring-mvc-demo/config/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-binding-request-params/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-reading-html-form-data/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-form-tags-text-fields/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-validation-handle-strings-for-integer-fields/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-form-tags-radio-buttons/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-validation-make-integer-fields-required/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/starter-files/spring-mvc-demo/config/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-form-tags-checkboxes/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-create-home-controller-and-view/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-and-hibernate/02-spring-mvc-5/solution-code-spring-mvc-validation-regular-expressions/WebContent/WEB-INF/spring-mvc-demo-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/99-old-code/7.SpringMvc/in28minutes-services-springmvc/src/main/webapp/WEB-INF/spring/springMvcDispatcherServlet-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/99-old-code/7.SpringMvc/in28minutes-web-springmvc/src/main/webapp/WEB-INF/spring/springMvcDispatcherServlet-servlet.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/99-old-code/1.BasicExample/src/test/resources/TestContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/01-spring-in-depth/src/test/resources/testContext.xml</file>
+          <file>file://$MODULE_DIR$/spring-framework-master-class/spring-master-class/02-basic-web-application/src/main/webapp/WEB-INF/todo-servlet.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Spring-5.2.3.RELEASE" level="project" />
+    <orderEntry type="library" name="Hibernate 5.4.11-5.4.11" level="project" />
+  </component>
+</module>
