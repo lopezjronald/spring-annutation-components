@@ -1,13 +1,21 @@
 package com.steadfast.annotations;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
 @Component
+//@Scope("singleton") // shared reference to the same bean
+//@Scope("prototype") // creates a new instance everytime
 public class TennisCoach implements Coach {
 
     // this will be SET the field by spring behind the scenes and inject the FortuneService by Java Reflections
     @Autowired
+    @Qualifier("happyFortuneService")
     private FortuneService fortuneService;
 
     public TennisCoach() {
@@ -19,6 +27,19 @@ public class TennisCoach implements Coach {
 //    public TennisCoach(FortuneService fortuneService) {
 //        this.fortuneService = fortuneService;
 //    }
+
+
+    // define init method
+    @PostConstruct
+    public void doMyStartUpStuff() {
+        System.out.println("Inside 'doMyStartUpStuff'");
+    }
+
+    // define destroy method
+    @PreDestroy
+    public void doMyCleanUpStuff() {
+        System.out.println("Inside 'doMyCleanUpStuff'");
+    }
 
     @Override
     public String getDailyWorkout() {
@@ -34,6 +55,8 @@ public class TennisCoach implements Coach {
     public String getDailyFortune() {
         return this.fortuneService.getFortune();
     }
+
+
 
     // Setter injection example
 //    @Autowired
